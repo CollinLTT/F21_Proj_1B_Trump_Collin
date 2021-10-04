@@ -1,0 +1,10 @@
+Artwork created by Me.
+
+Reference for quit:
+https://answers.unity.com/questions/899037/applicationquit-not-working-1.html
+
+Reference for writing out to JSON files:
+https://www.youtube.com/watch?v=ii31ObaAaJo
+
+Reference for using Singleton:
+https://www.youtube.com/watch?v=Ova7l0UB26U
